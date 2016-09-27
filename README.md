@@ -8,6 +8,7 @@ Online Web Application using spring rest template
 * JSTL 1.2
 * JQuery
 # To run this project locally 
+ Clone project from https://github.com/Sravya4u/OnlineWebStore
  1. Deploy application on tomcat8
  2. $ mvn tomcat8:run
 # Access http://localhost:8080/OnlineWebStore
